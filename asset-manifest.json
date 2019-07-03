@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/company/index.html/static/css/main.ee160681.chunk.css",
-    "main.js": "/company/index.html/static/js/main.5837c00f.chunk.js",
-    "main.js.map": "/company/index.html/static/js/main.5837c00f.chunk.js.map",
-    "runtime~main.js": "/company/index.html/static/js/runtime~main.187f6972.js",
-    "runtime~main.js.map": "/company/index.html/static/js/runtime~main.187f6972.js.map",
-    "static/css/2.7c95bfd0.chunk.css": "/company/index.html/static/css/2.7c95bfd0.chunk.css",
-    "static/js/2.fe1afc65.chunk.js": "/company/index.html/static/js/2.fe1afc65.chunk.js",
-    "static/js/2.fe1afc65.chunk.js.map": "/company/index.html/static/js/2.fe1afc65.chunk.js.map",
-    "index.html": "/company/index.html/index.html",
-    "precache-manifest.a56beeccd94e29dcb36c94130437e631.js": "/company/index.html/precache-manifest.a56beeccd94e29dcb36c94130437e631.js",
-    "service-worker.js": "/company/index.html/service-worker.js",
-    "static/css/2.7c95bfd0.chunk.css.map": "/company/index.html/static/css/2.7c95bfd0.chunk.css.map",
-    "static/css/main.ee160681.chunk.css.map": "/company/index.html/static/css/main.ee160681.chunk.css.map",
-    "static/media/semantic.min.css": "/company/index.html/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/office.jpg": "/company/index.html/static/media/office.2dec9f16.jpg"
+    "main.css": "/company/static/css/main.ee160681.chunk.css",
+    "main.js": "/company/static/js/main.7e6be7e2.chunk.js",
+    "main.js.map": "/company/static/js/main.7e6be7e2.chunk.js.map",
+    "runtime~main.js": "/company/static/js/runtime~main.28da056d.js",
+    "runtime~main.js.map": "/company/static/js/runtime~main.28da056d.js.map",
+    "static/css/2.7c583b5c.chunk.css": "/company/static/css/2.7c583b5c.chunk.css",
+    "static/js/2.fe1afc65.chunk.js": "/company/static/js/2.fe1afc65.chunk.js",
+    "static/js/2.fe1afc65.chunk.js.map": "/company/static/js/2.fe1afc65.chunk.js.map",
+    "index.html": "/company/index.html",
+    "precache-manifest.e21a1cb7a9b6734d2827d21b8ddce5dc.js": "/company/precache-manifest.e21a1cb7a9b6734d2827d21b8ddce5dc.js",
+    "service-worker.js": "/company/service-worker.js",
+    "static/css/2.7c583b5c.chunk.css.map": "/company/static/css/2.7c583b5c.chunk.css.map",
+    "static/css/main.ee160681.chunk.css.map": "/company/static/css/main.ee160681.chunk.css.map",
+    "static/media/semantic.min.css": "/company/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/office.jpg": "/company/static/media/office.2dec9f16.jpg"
   }
 }
