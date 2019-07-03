@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/company/static/css/main.ee160681.chunk.css",
-    "main.js": "/company/static/js/main.7f47920f.chunk.js",
-    "main.js.map": "/company/static/js/main.7f47920f.chunk.js.map",
-    "runtime~main.js": "/company/static/js/runtime~main.28da056d.js",
-    "runtime~main.js.map": "/company/static/js/runtime~main.28da056d.js.map",
-    "static/css/2.7c583b5c.chunk.css": "/company/static/css/2.7c583b5c.chunk.css",
-    "static/js/2.fe1afc65.chunk.js": "/company/static/js/2.fe1afc65.chunk.js",
-    "static/js/2.fe1afc65.chunk.js.map": "/company/static/js/2.fe1afc65.chunk.js.map",
-    "index.html": "/company/index.html",
-    "precache-manifest.efda36677ed0d3c281eba5c3354c287c.js": "/company/precache-manifest.efda36677ed0d3c281eba5c3354c287c.js",
-    "service-worker.js": "/company/service-worker.js",
-    "static/css/2.7c583b5c.chunk.css.map": "/company/static/css/2.7c583b5c.chunk.css.map",
-    "static/css/main.ee160681.chunk.css.map": "/company/static/css/main.ee160681.chunk.css.map",
-    "static/media/semantic.min.css": "/company/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/office.jpg": "/company/static/media/office.2dec9f16.jpg"
+    "main.css": "/static/css/main.ee160681.chunk.css",
+    "main.js": "/static/js/main.f1e62e7c.chunk.js",
+    "main.js.map": "/static/js/main.f1e62e7c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.bc4837a2.chunk.css": "/static/css/2.bc4837a2.chunk.css",
+    "static/js/2.fe1afc65.chunk.js": "/static/js/2.fe1afc65.chunk.js",
+    "static/js/2.fe1afc65.chunk.js.map": "/static/js/2.fe1afc65.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1b79268cff5dd32d5edbf0ae9b4c2ed3.js": "/precache-manifest.1b79268cff5dd32d5edbf0ae9b4c2ed3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bc4837a2.chunk.css.map": "/static/css/2.bc4837a2.chunk.css.map",
+    "static/css/main.ee160681.chunk.css.map": "/static/css/main.ee160681.chunk.css.map",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/office.jpg": "/static/media/office.2dec9f16.jpg"
   }
 }
