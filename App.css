@@ -1,0 +1,277 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #0d1a2b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #000;
+}
+
+.App-header p{
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(255, 123, 0);
+}
+
+a {
+  cursor: pointer;
+}
+
+button.arrButton{
+  margin-top: 25px !important;
+  border: none;
+  background: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.right.menu .item:hover{
+  background-color: #4183C4;
+}
+.right.menu .item:hover a {
+  color: #fff;
+}
+.arrowDown {
+  margin: 0 !important;
+}
+
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-15px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+
+.services-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 30vh;
+}
+
+.services-header .bottom-line {
+  min-width: 20vh;
+}
+
+
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 30%;
+  margin: 30px 20px;
+}
+
+.card-title {
+  font-size: 20px;
+  padding-top: 10px;
+  text-transform: capitalize;
+}
+
+
+.card p {
+  padding-top: 5px;
+}
+
+.ui.menu {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  border-radius: 0;
+}
+
+
+.about {
+  margin-top: 10px;
+}
+
+
+.about-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.bottom-line {
+  min-width: 25vh;
+  border-bottom: 5px solid #3171c5;
+}
+
+
+.about-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-container img {
+  padding: 30px;
+  width: 60%;
+  opacity: .9;
+}
+
+.about-container ul {
+  padding: 10px 70px;
+  font-size: 17px;
+  width: 40%;
+  list-style: outside;
+}
+
+.about-container li {
+  margin-top: 10px;
+}
+
+.about-container li:hover {
+  padding-left: 1em;
+  transition: padding-left ease .3s;
+}
+
+
+.about-container ul h2,h3 {
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: .5px;
+} 
+
+
+
+.about-container img:hover {
+  opacity: 1;
+}
+
+.icon {
+  margin: 0;
+}
+
+
+section.getStarted {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0d1a2b;
+  min-height: 70vh;
+  text-align: center;
+  color: #fff;
+}
+
+section.getStarted h2 {
+  font-size: 40px;
+  text-transform: capitalize;
+}
+
+section.getStarted p {
+  font-size: 22px;
+  word-spacing: 2px;
+  letter-spacing: .03rem;
+}
+
+section.getStarted button {
+  font-size: 28px !important;
+}
+
+
+footer {
+  background-color: gray;
+  min-width: 30vh;
+  color: white !important ;
+  font-family: 'Lato', sans-serif;
+}
+
+
+footer,.wrapper {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 1200px){
+  #OurServices.wrapper,.card {
+    width: 25%;
+  }
+}
+
+
+@media screen and (max-width: 780px){
+
+  .about-container ul {
+    padding: 10px 30px;
+  }
+  
+}
+
+@media screen and (max-width: 550px){
+  
+ div.item:first-child {
+    display: none !important;
+  }
+
+  div.right.menu div.item:first-child {
+    display: block !important;
+  }
+
+  .ui.menu:not(.vertical) .right.item, .ui.menu:not(.vertical) .right.menu{
+    margin-left: 0 !important;
+  }
+
+  #OurServices .wrapper .card p {
+    display: none !important;
+  }
+  #OurServices.wrapper,.card {
+    width: 20%;
+  }
+  .about-container img {
+    width: 50%;
+    
+  }
+  .about-container ul {
+    width: 50%;
+    padding: 0;
+  }
+
+  .services-header p{
+    display: none;
+  }
+  
+}
+
+@media screen and (max-width: 410px) {
+
+  .ui.menu {
+    display: none !important;
+  }
+  .about {
+    display: none;
+  }
+  .getStarted p{
+    display: none;
+  }
+}
